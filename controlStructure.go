@@ -19,7 +19,7 @@ func main() {
 		}
 	}
 
-	//case statement
+	// case statement
 	c := 1
 	for c <= 10 {
 		switch c {
